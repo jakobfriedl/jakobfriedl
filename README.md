@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there, my name is Jakob 👋 
 
 <div align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jakobfriedl&count_private=true&show_icons=true&theme=rose_pine&hide_border=true&border_radius=10&bg_color=0d1117&hide=issues,contribs&hide_title=true"/>
