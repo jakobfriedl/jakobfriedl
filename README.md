@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-I am a computer science student from Austria, interested in cybersecurity and scripting.
+> I am a computer science student from Austria, interested in cybersecurity and scripting.
 
 # Technologies:
 ## Languages
@@ -33,4 +33,5 @@ I am a computer science student from Austria, interested in cybersecurity and sc
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=jakobfriedl&theme=oldie&no-frame=true&no-bg=true&margin-w=4) --> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakobfriedl) 
+<!-- # Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakobfriedl) -->
