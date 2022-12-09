@@ -24,7 +24,8 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 <!--## Other
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)-->
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+-->
 
 # Stats 
 
