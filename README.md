@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-> I am a computer science student from Austria, interested in cybersecurity and scripting.
+> I am a computer science and information security student from Austria, interested in network penetration testing and malware development.
 
 # Technologies:
 ## Languages
