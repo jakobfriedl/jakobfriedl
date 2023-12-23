@@ -32,7 +32,7 @@
 
 # Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=jakobfriedl&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobfriedl&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6) 
+![](https://github-readme-stats.vercel.app/api?username=jakobfriedl&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobfriedl&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6&hide=powershell) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jakobfriedl&theme=vue-dark&background=0d1117&hide_border=true)<br/>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=jakobfriedl&theme=oldie&no-frame=true&no-bg=true&margin-w=4) --> 
