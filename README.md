@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,nim,bash,powershell,php,js,kali&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,nim,bash,powershell,php,js&perline=10" />
   </a>
 </p>
 
