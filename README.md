@@ -9,7 +9,10 @@
     "av/edr evasion",
     "red team ops",
     "linux ricing"
-  ],
+  ]
+}
+```
+<!--
   "certs": [
     "oscp",
     "aptlabs prolab",
@@ -18,9 +21,7 @@
     "zephyr prolab",
     "offshore prolab",
     "dante prolab"
-  ]
-}
-```
+  ]--> 
 
 <p align="center">
   <a href="https://skillicons.dev">
