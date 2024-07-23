@@ -7,8 +7,7 @@
     "x64 malware development",
     "network penetration testing",
     "av/edr evasion",
-    "red team ops",
-    "linux ricing"
+    "red team ops"
   ]
 }
 ```
