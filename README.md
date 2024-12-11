@@ -3,24 +3,19 @@
 ```json
 {
   "occupation": "infosec student / penetration tester",
-  "currently_studying": [
+  "fields_of_interest": [
     "x64 malware development",
     "network penetration testing",
-    "av/edr evasion",
-    "red team ops"
-  ]
+    "red team ops & infrastructure"
+  ],
+  "certs": [
+    "osep",
+    "oscp",
+    "maldev academy",
+    "htb pro labs (aptlabs, cybernetics, offshore, zephyr, rastalabs, dante)"
+  ] 
 }
 ```
-<!--
-  "certs": [
-    "oscp",
-    "aptlabs prolab",
-    "cybernetics prolab",
-    "rastalabs prolab",
-    "zephyr prolab",
-    "offshore prolab",
-    "dante prolab"
-  ]--> 
 
 <p align="center">
   <a href="https://skillicons.dev">
