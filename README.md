@@ -12,7 +12,7 @@
     "osep",
     "oscp",
     "maldev academy",
-    "htb pro labs (aptlabs, cybernetics, offshore, zephyr, rastalabs, dante)"
+    "htb pro labs (aptlabs, cybernetics, alchemy, offshore, zephyr, rastalabs, dante)"
   ] 
 }
 ```
