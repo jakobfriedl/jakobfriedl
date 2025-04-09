@@ -11,6 +11,7 @@
   "certs": [
     "osep",
     "oscp",
+    "oswp",
     "maldev academy",
     "htb pro labs (aptlabs, cybernetics, alchemy, offshore, zephyr, rastalabs, dante)"
   ] 
