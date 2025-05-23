@@ -19,7 +19,7 @@
 ```
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,nim,bash,powershell,php,js&perline=10" />
   </a>
 </p>
@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobfriedl&theme=vue-dark&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=precompiled-binaries,.config,dotfiles&card_width=700" /> 
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobfriedl&theme=vue-dark&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&exclude_repo=precompiled-binaries,.config,dotfiles&card_width=700" /> 
   </a>
 </p>
 
